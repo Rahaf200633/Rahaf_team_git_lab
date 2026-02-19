@@ -1,2 +1,2 @@
-Hello Git Team - Version A (Student 1)
+Hello Git Team - Version A and B (Resolved)
 Hello Git Team student 2
